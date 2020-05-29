@@ -3,7 +3,7 @@ Example of sending and receiveing command from Smart Phone to Anroid device
 
 For the first Example, I will send 4 PWM Signals from Android Device to an Arduino Mega 2560 via serial. 
 I am using Simulink for this tutorial.
-What you need to follow the example and the video:
+What you need to follow the example and the video:<br />
 
 Simulink
 Simulink Support Packages for Arduino Board
