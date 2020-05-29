@@ -17,3 +17,6 @@ etc<br />
 Just follow the youtube video liked below to start this cool project...<br />
 
 This project will be updated with more interesting projects soon.<br />
+
+
+[![View Arduino Smart Phone Serial on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/76383-arduino-smart-phone-serial)
